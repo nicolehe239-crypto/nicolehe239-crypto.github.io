@@ -2,10 +2,4 @@
 title: "Nicole Keyu He"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Hello, I am a Senior at the Stony Brook School
