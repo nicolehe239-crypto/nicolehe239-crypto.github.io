@@ -2,8 +2,15 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Nicole Keyu He",
+    "title": "Nicole He",
     "section": "",
-    "text": "Hello, I am a Senior at the Stony Brook School"
+    "text": "Hi! I am Data Analyst and a senior at the Stony Brook School. I have a passion for foreign policy and data analytics. With a solid background in R programming, data analysis, visualization, and Geographic Information Systems (GIS), I’m ready to tackle the complex challenges at the intersection of data and public policy. On this website, you’ll find a showcase of my projects, demonstrating my ability to analyze societal issues, visualize data trends, and propose actionable recommendations for policy improvements. Click on relevant categories to see these projects.\nYou can also check out my CV."
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "portfolio",
+    "section": "",
+    "text": "You can check out some of the projects I conducted\n\n\nWild Fires Memo\n\n\nWild Fires Memo"
   }
 ]

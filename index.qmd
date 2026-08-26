@@ -1,5 +1,17 @@
 ---
-title: "Nicole Keyu He"
+title: "Nicole He"
+image: images/keyu_photo.jpg
+about:
+  template: solana
+  image-width: 5cm
+  image-shape: round
+  links:
+    - icon: github
+      href: https://nicolehe239-crypto.github.io/
+    - icon: linkedin
+      href: www.linkedin.com/in/nicole-he-893b96320
 ---
 
-Hello, I am a Senior at the Stony Brook School
+Hi! I am Data Analyst and a senior at the Stony Brook School. I have a passion for foreign policy and data analytics. With a solid background in R programming, data analysis, visualization, and Geographic Information Systems (GIS), I’m ready to tackle the complex challenges at the intersection of data and public policy. On this website, you’ll find a showcase of my projects, demonstrating my ability to analyze societal issues, visualize data trends, and propose actionable recommendations for policy improvements. Click on relevant categories to see these projects.
+
+You can also check out my <a href="/cv//Users/hekeyu/Desktop/popescu research/nicolehe239-crypto.github.io/cv/Nicole He Resume-2.pdf" target="_blank">CV</a>.

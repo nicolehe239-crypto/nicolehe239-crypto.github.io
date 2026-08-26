@@ -1,0 +1,10 @@
+---
+title: "portfolio"
+---
+
+You can check out some of the projects I conducted
+
+<ul>
+  <li><a href="/portfolio/memo_example.html" target="_blank">Wild Fires Memo</a></li>
+  <li><a href="/portfolio/memo_example_presentation.html" target="_blank">Wild Fires Memo</a></li>
+  </li>
