@@ -1,0 +1,13 @@
+---
+title: "Portfolio"
+---
+
+You can check out some of the projects I conducted
+
+<ul>
+
+<li><a href="/portfolio/final_paper_keyu.html" target="_blank">Chinese Development Projects and Leaders’ Home Regions Paper</a></li>
+
+<li><a href="/portfolio/final_paper_keyu.pdf" target="_blank">Chinese Development Projects and Leaders’ Home Regions Presentation</a></li>
+
+</li>
